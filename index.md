@@ -29,7 +29,11 @@ All the interviewees agreed that education plays a huge role in creating awarene
 
 ## Importance of Community
 
-All of the interviewee’s agreed that being a part of a community is important. When asked about the definition and importance of community, one interviewee responded with 1. A group of people that live in the same area and share resources. 2. Community is important to be a part of something because it brings people together. To the interviewees, being a part of a community directly adds to their happiness in life and lets them be a part of something. 
+All of the interviewee’s agreed that being a part of a community is important. When asked about the definition and importance of community, one interviewee responded with 1. A group of people that live in the same area and share resources. 2. Community is important to be a part of something because it brings people together. To the interviewees, being a part of a community directly adds to their happiness in life and lets them be a part of something.
+
+# Future Design
+
+Currently the app is broken down into two portions, one being the social side which consists of hosting and signing up for events and the other is the educational side where users can go and learn about their local environment. Moving forward the app could provide more for the user similarly how facebook started as a site where users can have their own personal page to where now it has a marketplace, dating service, and a tv service. While considering the main objectives of an app is important one thing we learned is to not forgot about the functionalities that most users take for granted. For example, in our initial iteration we did not have an option for the user to go back to the previous page they had to use the navbar and select that specific page to go back. To promote use of the app navigation through its content should be as effortless as possible.
 
 # Header 1
 ## Header 2
