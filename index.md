@@ -55,7 +55,7 @@ From our data, having a way to go with friends or people the user met from a vol
 
 # JACKS BULLET 
 
-![:)](https://troyc529.github.io/assets/feedpage.jpg)
+![:)](https://troyc529.github.io/assets/feedpage.JPG)
 
 # Future Design
 
