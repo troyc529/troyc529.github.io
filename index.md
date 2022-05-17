@@ -46,8 +46,14 @@ Through our findings, we found that incentives are an important aspect when tryi
    
 insert images HERERERERERER
 
+
+
 From our data, having a way to go with friends or people the user met from a volunteering event through our app is one key idea from our findings. This would allow the user to create and maintain connections with others within their community. Having a share button would also allow users to share and invite others to volunteering events, creating an opportunity to interact with other people and act as a motivator to participating in these kinds of events by going with another person and feeling less awkward if they were to go alone.
 
+
+# JACKS BULLET
+
+![:)](/images/feedpage.jpg){:height="400px" width="400px"}
 
 # Future Design
 
