@@ -1,9 +1,5 @@
-## Leaf
-<!-- 
-You can use the [editor on GitHub](https://github.com/troyc529/troyc529.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Leaf, Your Environmental Community Starts Here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- -->
 # Overview
 
 The initial problem our group identified was the lack of community involvement in taking care of local environment. Our app’s purpose is to allow users easy engagement with taking care of their local environment through public events as well as provide a source to learn more about their local area. The app provides a platform to host events where users can easily sign up and participate, for example a user could host an event for a local park clean up, the app would provide details regarding the event and would allow users to sign up and share the event with friends to promote more engagement. We also hope as a byproduct of the app is that it creates more communities so people can develop of a sense of belonging to something positive. The app also provides education through articles and videos that are related to the users local area.
