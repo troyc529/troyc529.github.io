@@ -45,51 +45,32 @@ All of the interviewee’s agreed that being a part of a community is important.
 ## Implications for Design:
 Through our findings, we found that incentives are an important aspect when trying to get participation. On each post incentives will be displayed so that a user can click on it and see what potential incentives there are to participating. The base incentive will be points towards the users overall score which is displayed in the top right corner. These points can be earned by signing up to volunteering events, or by watching/ reading articles in the environmental awareness page. Since education was also a factor in our findings, where the interviewee knew very little to none about their local environment, we decided to design an environmental awareness page. This page will have information about the user’s local environment and actions they can take to aid with any environmental issues within their community.
    
-insert images HERERERERERER
-
 
 
 From our data, having a way to go with friends or people the user met from a volunteering event through our app is one key idea from our findings. This would allow the user to create and maintain connections with others within their community. Having a share button would also allow users to share and invite others to volunteering events, creating an opportunity to interact with other people and act as a motivator to participating in these kinds of events by going with another person and feeling less awkward if they were to go alone.
 
+## Design Iterations
+![:)]({{site.url}}/assets/img/educationb4after.jpg)
+After reviewing our design we found the first iteration did not maximize the space so we developed a design to incorporate more videos into the page
 
-### {{site.url}}
+![:)]({{site.url}}/assets/img/volb4after.jpg)
+Initially the volunteering page lacked a feature to share with friends so we added that in the final design
 
-# JACKS BULLET 
+![:)]({{site.url}}/assets/img/getintouchB4After.JPG)
+In our first iteration our Navbar was cropped by the curvature of the phone so we updated that in for the final design
 
-![:)]({{site.url}}/assets/img/dog-puppy-on-garden-royalty-free-image-1586966191.jpg){:height="400px" width:"400px"}
+![:)]({{site.url}}/assets/img/friendlistB4After.JPG)
+Initially we lacked a feature to add friends to friends list we incorporated this in the final design
+
+
+
+# Usability Test
+We iterated many times on our initial design. Through a usability test, we were able to get real insight into our app's inefficencies/problems. Our users found that our application was difficult to navigate, mainly about our awareness page once the user was logged in. The main issue was that our awareness page was not organized. We iterated on this advice and formatted the environmental articles and videos in a grid, so the user can navigate them more freely. Another big issue throughout our application was that we did not have a mechanism to go back to previous pages/views. We added back arrows on all of the pages per the advice of our users. 
+
+
+
 
 # Future Design
 
 Currently the app is broken down into two portions, one being the social side which consists of hosting and signing up for events and the other is the educational side where users can go and learn about their local environment. Moving forward the app could provide more for the user similarly how facebook started as a site where users can have their own personal page to where now it has a marketplace, dating service, and a tv service. While considering the main objectives of an app is important one thing we learned is to not forgot about the functionalities that most users take for granted. For example, in our initial iteration we did not have an option for the user to go back to the previous page they had to use the navbar and select that specific page to go back. To promote use of the app navigation through its content should be as effortless as possible.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-
-![sda](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
-
-<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/troyc529/troyc529.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
-<!-- 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --> 
-
-gem install jekyll bundler
-
-bundle exec jekyll serve
