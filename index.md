@@ -51,18 +51,23 @@ From our data, having a way to go with friends or people the user met from a vol
 
 ## Design Iterations
 ![:)]({{site.url}}/assets/img/educationb4after.jpg)
+
 After reviewing our design we found the first iteration did not maximize the space so we developed a design to incorporate more videos into the page
 
 ![:)]({{site.url}}/assets/img/volb4after.jpg)
+
 Initially the volunteering page lacked a feature to share with friends so we added that in the final design
 
 ![:)]({{site.url}}/assets/img/getintouchB4After.JPG)
+
 In our first iteration our Navbar was cropped by the curvature of the phone so we updated that in for the final design
 
 ![:)]({{site.url}}/assets/img/friendlistB4After.JPG)
+
 Initially we lacked a feature to add friends to friends list we incorporated this in the final design
 
 ![:)]({{site.url}}/assets/img/backbuttonB4After.JPG)
+
 At first the only way to navigate the App was the navbar, to increase ease of use for user we incorporated a back button
 
 
