@@ -55,9 +55,8 @@ From our data, having a way to go with friends or people the user met from a vol
 
 # JACKS BULLET 
 
-![:)]({{site.url}}/assets/img/feedpage.JPG?raw=true)
+![:)]({{site.url}}/assets/img/feedpage.JPG)
 
-<img src="{{site.baseurl}}/assets/img/feedpage.JPG?raw=true">
 
 # Future Design
 
