@@ -1,5 +1,5 @@
 
-![:)]({{site.url}}/assets/img/leaf.JPG)
+![:)]({{site.url}}/assets/img/leaf.JPG){:display="flex" margin="auto" height="100px" width="100px"}
 
 # Overview
 
@@ -56,7 +56,7 @@ From our data, having a way to go with friends or people the user met from a vol
 
 # JACKS BULLET 
 
-![:)]({{site.url}}/assets/img/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
+![:)]({{site.url}}/assets/img/dog-puppy-on-garden-royalty-free-image-1586966191.jpg){:height="400px" width:"400px"}
 
 # Future Design
 
