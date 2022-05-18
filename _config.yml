@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Leaf"
 description: "Your Environmental Community Starts Here"
+baseurl: ""

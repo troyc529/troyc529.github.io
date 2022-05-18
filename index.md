@@ -55,7 +55,9 @@ From our data, having a way to go with friends or people the user met from a vol
 
 # JACKS BULLET 
 
-![:)](./assets/feedpage.JPG)
+![:)](./assets/img/feedpage.JPG?raw=true)
+
+<img src="{{site.baseurl}}/assets/img/feedpage.JPG?raw=true">
 
 # Future Design
 
@@ -80,8 +82,15 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
+
+![sda](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
+
 <!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/troyc529/troyc529.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 <!-- 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --> 
+
+gem install jekyll bundler
+
+bundle exec jekyll serve
