@@ -62,10 +62,12 @@ In our first iteration our Navbar was cropped by the curvature of the phone so w
 ![:)]({{site.url}}/assets/img/friendlistB4After.JPG)
 Initially we lacked a feature to add friends to friends list we incorporated this in the final design
 
+![:)]({{site.url}}/assets/img/backbuttonB4After.JPG)
+At first the only way to navigate the App was the navbar, to increase ease of use for user we incorporated a back button
 
 
 # Usability Test
-We iterated many times on our initial design. Through a usability test, we were able to get real insight into our app's inefficencies/problems. Our users found that our application was difficult to navigate, mainly about our awareness page once the user was logged in. The main issue was that our awareness page was not organized. We iterated on this advice and formatted the environmental articles and videos in a grid, so the user can navigate them more freely. Another big issue throughout our application was that we did not have a mechanism to go back to previous pages/views. We added back arrows on all of the pages per the advice of our users. 
+We iterated many times on our initial design. Through a usability test, we were able to get real insight into our app's inefficencies/problems. Our users found that our application was difficult to navigate, mainly about our awareness page once the user was logged in. The main issue was that our awareness page was not organized. We iterated on this advice and formatted the environmental articles and videos in a grid, so the user can navigate them more freely. Another big issue throughout our application was that we did not have a mechanism to go back to previous pages/views. We added back arrows on all of the pages per the advice of our users. We also had a few components that needed to be positioned better. Namely, the navbar was too high, so we moved it down and added functional icons. We also made it easier to share posts with friends by placing a distinct share button aside each post. In addition, we added popups for adding friends and sharing posts with friends that prompts the user to input the recipient's email address. 
 
 
 
