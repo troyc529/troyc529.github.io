@@ -75,9 +75,16 @@ At first the only way to navigate the App was the navbar, to increase ease of us
 We iterated many times on our initial design. Through a usability test, we were able to get real insight into our app's inefficencies/problems. Our users found that our application was difficult to navigate, mainly about our awareness page once the user was logged in. The main issue was that our awareness page was not organized. We iterated on this advice and formatted the environmental articles and videos in a grid, so the user can navigate them more freely. Another big issue throughout our application was that we did not have a mechanism to go back to previous pages/views. We added back arrows on all of the pages per the advice of our users. We also had a few components that needed to be positioned better. Namely, the navbar was too high, so we moved it down and added functional icons. We also made it easier to share posts with friends by placing a distinct share button aside each post. In addition, we added popups for adding friends and sharing posts with friends that prompts the user to input the recipient's email address. 
 
 
-
-
 # Future Design
 
 Currently the app is broken down into two portions, one being the social side which consists of hosting and signing up for events and the other is the educational side where users can go and learn about their local environment. Moving forward the app could provide more for the user similarly how facebook started as a site where users can have their own personal page to where now it has a marketplace, dating service, and a tv service. While considering the main objectives of an app is important one thing we learned is to not forgot about the functionalities that most users take for granted. For example, in our initial iteration we did not have an option for the user to go back to the previous page they had to use the navbar and select that specific page to go back. To promote use of the app navigation through its content should be as effortless as possible.
 
+
+
+# Team
+
+Troy Carloni : Team Captain
+Jack Deremiah : Captain advisor 
+Hannah Hum : Lead designer
+Kishan Patel : person 4
+Javier Marquez : logo designer
