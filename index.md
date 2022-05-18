@@ -1,5 +1,5 @@
 
-![:)]({{site.url}}/assets/img/leaf.JPG){:display="flex" margin="auto" height="100px" width="100px"}
+![:)]({{site.url}}/assets/img/leaf.JPG){:display="flex" margin="auto" height="300px" width="300px"}
 
 # Overview
 
